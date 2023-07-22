@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">EletricCar</string>
+    <string name="app_name">EletricCarApp</string>
+    <string name="preco">Preço</string>
+    <string name="valor">Valor</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="carros">Carros</string>
+    <string name="eletric_car">Eletric Car</string>
+    <string name="todo">TODO</string>
+    <string name="bateria">Bateria</string>
+    <string name="potencia">Potencia</string>
+    <string name="recarga">Recarga</string>
+    <string name="preco_kwh">Preço kWh</string>
+    <string name="km_percorrido">km Percorrido</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="familia">Familia</string>
+    <string name="resultato">Resultato</string>
 </resources>
